@@ -13,6 +13,8 @@
 		2C517A35288EC543009D6DF4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C517A34288EC543009D6DF4 /* Preview Assets.xcassets */; };
 		2CA2C6C22892AE9B00E3BD4E /* PickerControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CA2C6C12892AE9B00E3BD4E /* PickerControlsView.swift */; };
 		2CA2C6C42892BCEC00E3BD4E /* StepperControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CA2C6C32892BCEC00E3BD4E /* StepperControlsView.swift */; };
+		2CA2C6C62892C34500E3BD4E /* SliderControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CA2C6C52892C34500E3BD4E /* SliderControlsView.swift */; };
+		2CA2C6C82892CAF600E3BD4E /* DateAndTimePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CA2C6C72892CAF600E3BD4E /* DateAndTimePickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		2C517A34288EC543009D6DF4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2CA2C6C12892AE9B00E3BD4E /* PickerControlsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerControlsView.swift; sourceTree = "<group>"; };
 		2CA2C6C32892BCEC00E3BD4E /* StepperControlsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperControlsView.swift; sourceTree = "<group>"; };
+		2CA2C6C52892C34500E3BD4E /* SliderControlsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderControlsView.swift; sourceTree = "<group>"; };
+		2CA2C6C72892CAF600E3BD4E /* DateAndTimePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateAndTimePickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				2C517A33288EC543009D6DF4 /* Preview Content */,
 				2CA2C6C12892AE9B00E3BD4E /* PickerControlsView.swift */,
 				2CA2C6C32892BCEC00E3BD4E /* StepperControlsView.swift */,
+				2CA2C6C52892C34500E3BD4E /* SliderControlsView.swift */,
+				2CA2C6C72892CAF600E3BD4E /* DateAndTimePickerView.swift */,
 			);
 			path = "SwiftUI-Widgets";
 			sourceTree = "<group>";
@@ -144,6 +150,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C517A30288EC53E009D6DF4 /* ContentView.swift in Sources */,
+				2CA2C6C82892CAF600E3BD4E /* DateAndTimePickerView.swift in Sources */,
+				2CA2C6C62892C34500E3BD4E /* SliderControlsView.swift in Sources */,
 				2CA2C6C22892AE9B00E3BD4E /* PickerControlsView.swift in Sources */,
 				2CA2C6C42892BCEC00E3BD4E /* StepperControlsView.swift in Sources */,
 				2C517A2E288EC53E009D6DF4 /* SwiftUI_WidgetsApp.swift in Sources */,
