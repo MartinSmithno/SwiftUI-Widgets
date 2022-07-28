@@ -15,11 +15,11 @@ struct ContentView: View {
             VStack (spacing:30) {
                 
                 NavigationLink("Picker", destination: PickerControlsView()).foregroundColor(.red)
-                NavigationLink("Stepper", destination: PickerControlsView()).foregroundColor(.orange)
+                NavigationLink("Stepper", destination: StepperControlsView()).foregroundColor(.orange)
                 NavigationLink("Picker", destination: PickerControlsView()).foregroundColor(.yellow)
                 NavigationLink("Picker", destination: PickerControlsView()).foregroundColor(.green)
                 
-            }
+            }.navigationTitle("SwiftUI Widgets")
         }
         
 
