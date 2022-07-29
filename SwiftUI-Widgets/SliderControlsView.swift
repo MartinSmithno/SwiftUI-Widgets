@@ -27,8 +27,6 @@ struct SliderControlsView: View {
                 Text("Result: \(Int(age))")
                 Image(systemName: image)
             }
-            
-        }
+        }.navigationTitle("Sliders")
     }
-    
 }

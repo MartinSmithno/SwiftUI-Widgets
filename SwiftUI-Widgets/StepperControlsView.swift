@@ -19,6 +19,6 @@ struct StepperControlsView: View {
             Stepper("Decrement & Increment with step&range", value: $value3, in: -10...11, step: 2).foregroundColor(.green).font(.system(size: 14, weight: .bold, design: .rounded))
             Text("Result: \(value3)").padding(.bottom, 40)
             
-        }.navigationTitle("Stepper")
+        }.navigationTitle("Steppers")
     }
 }

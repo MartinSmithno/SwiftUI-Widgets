@@ -67,6 +67,6 @@ struct DateAndTimePickerView: View {
                     graphicalDateIsVisible = false
                     compactDateIsVisible = false
             }).buttonStyle(.borderedProminent)
-        }
+        }.navigationTitle("Date & Time Pickers")
     }
 }

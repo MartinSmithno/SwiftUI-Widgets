@@ -14,6 +14,7 @@ struct ContentView: View {
         NavigationView {
             VStack (spacing:30) {
                 
+                NavigationLink("Toggle", destination: ToggleView()).foregroundColor(.gray)
                 NavigationLink("Picker", destination: PickerControlsView()).foregroundColor(.red)
                 NavigationLink("Stepper Control", destination: StepperControlsView()).foregroundColor(.orange)
                 NavigationLink("Slider Control", destination: SliderControlsView()).foregroundColor(.yellow)
