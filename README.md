@@ -9,6 +9,5 @@ In this repo I tried to show how we can code widgets in one project.
 - Segmented Control
 - Stepper
 - Slider
-- Image
 - Picker
 - Date & Time Picker
