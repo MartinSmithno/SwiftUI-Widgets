@@ -10,3 +10,5 @@ In this repo I tried to show how we can code widgets in one project.
 - Stepper
 - Slider
 - Image
+- Picker
+- Date & Time Picker
