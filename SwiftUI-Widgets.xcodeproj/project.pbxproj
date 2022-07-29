@@ -15,6 +15,7 @@
 		2CA2C6C42892BCEC00E3BD4E /* StepperControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CA2C6C32892BCEC00E3BD4E /* StepperControlsView.swift */; };
 		2CA2C6C62892C34500E3BD4E /* SliderControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CA2C6C52892C34500E3BD4E /* SliderControlsView.swift */; };
 		2CA2C6C82892CAF600E3BD4E /* DateAndTimePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CA2C6C72892CAF600E3BD4E /* DateAndTimePickerView.swift */; };
+		2CBC69152893E3240038235B /* ToggleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CBC69142893E3240038235B /* ToggleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		2CA2C6C32892BCEC00E3BD4E /* StepperControlsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperControlsView.swift; sourceTree = "<group>"; };
 		2CA2C6C52892C34500E3BD4E /* SliderControlsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderControlsView.swift; sourceTree = "<group>"; };
 		2CA2C6C72892CAF600E3BD4E /* DateAndTimePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateAndTimePickerView.swift; sourceTree = "<group>"; };
+		2CBC69142893E3240038235B /* ToggleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				2CA2C6C32892BCEC00E3BD4E /* StepperControlsView.swift */,
 				2CA2C6C52892C34500E3BD4E /* SliderControlsView.swift */,
 				2CA2C6C72892CAF600E3BD4E /* DateAndTimePickerView.swift */,
+				2CBC69142893E3240038235B /* ToggleView.swift */,
 			);
 			path = "SwiftUI-Widgets";
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				2CA2C6C22892AE9B00E3BD4E /* PickerControlsView.swift in Sources */,
 				2CA2C6C42892BCEC00E3BD4E /* StepperControlsView.swift in Sources */,
 				2C517A2E288EC53E009D6DF4 /* SwiftUI_WidgetsApp.swift in Sources */,
+				2CBC69152893E3240038235B /* ToggleView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
